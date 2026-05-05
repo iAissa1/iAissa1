@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/iAissa/iAissa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/iAissa1/iAissa1/output/snake.svg" alt="Snake animation" />
 
 ###
