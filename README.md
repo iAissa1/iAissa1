@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **@Stelar-LLC**<br><br>- 🌱 I’m trying to learn **Java & Kotlin**</p>
+<p align="left">- 🔭 I’m currently working on @Stelar-LLC<br><br>- 🌱 I’m trying to learn Java & Kotlin</p>
 
 ###
 
